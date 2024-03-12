@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.4;
 
-import "@lazy-sol/access-control/contracts/AccessControl.sol";
+import "@ai-protocol/access-control/contracts/AccessControl.sol";
 import "../interfaces/ERC721SpecExt.sol";
 import "../lib/ECDSA.sol";
 

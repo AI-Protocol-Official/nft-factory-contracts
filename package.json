@@ -23,8 +23,8 @@
   "author": "AI Protocol",
   "license": "MIT",
   "dependencies": {
-    "@lazy-sol/access-control": "github:lazy-sol/access-control",
-    "@lazy-sol/access-control-upgradeable": "github:lazy-sol/access-control-upgradeable",
+    "@ai-protocol/access-control": "github:AI-Protocol-Official/access-control",
+    "@ai-protocol/access-control-upgradeable": "github:AI-Protocol-Official/access-control-upgradeable",
     "@ai-protocol/royal-erc721": "github:AI-Protocol-Official/royal-erc721",
     "@nomiclabs/hardhat-truffle5": "^2.0.7",
     "@nomiclabs/hardhat-web3": "^2.0.0",
